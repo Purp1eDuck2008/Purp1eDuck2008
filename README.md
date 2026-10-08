@@ -5,6 +5,9 @@
 ![RTU MIREA](https://img.shields.io/badge/RTU%20MIREA-21262d?style=for-the-badge&logo=googlescholar&logoColor=58a6ff)
 ![Moscow](https://img.shields.io/badge/Moscow-21262d?style=for-the-badge&logo=googlemaps&logoColor=58a6ff)
 [![Telegram](https://img.shields.io/badge/Telegram-21262d?style=for-the-badge&logo=telegram&logoColor=58a6ff)](https://t.me/Purp1eDuck)
+[![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:твой.email@gmail.com)
+
+*🚀 Open for Intern / Junior Android Developer positions*
 
 </div>
 
@@ -14,7 +17,7 @@ Android developer and student at RTU MIREA in Moscow, studying Systems and Softw
 
 - **Focus:** Android development
 - **Education:** RTU MIREA — Systems and Software Engineering
-- **Programming:** Kotlin, C++, C, Python
+- **Programming:** Kotlin, C++, Python
 - **Tools:** Android Studio, Git, GitHub, CLion, Linux
 
 ## Tech stack
@@ -25,7 +28,6 @@ Android developer and student at RTU MIREA in Moscow, studying Systems and Softw
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-21262d?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![C++](https://img.shields.io/badge/C++-21262d?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-21262d?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### Android Development
@@ -43,6 +45,12 @@ Android developer and student at RTU MIREA in Moscow, studying Systems and Softw
 ![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Obsidian](https://img.shields.io/badge/Obsidian-21262d?style=for-the-badge&logo=obsidian&logoColor=483699)
 
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Purp1eDuck2008&show_icons=true&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=58a6ff&text_color=8b949e" alt="Alexander's GitHub Stats" />
 </div>
 
 ## Currently learning
@@ -75,7 +83,7 @@ Android developer and student at RTU MIREA in Moscow, studying Systems and Softw
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/image_1.png" alt="Trezvo Preview" style="width: 100%; height: auto;" />
+      <img src="assets/image_1.png" alt="Trezvo Preview" style="width: 100%; max-width: 300px; height: auto;" />
     </td>
   </tr>
 </table>
@@ -84,9 +92,6 @@ Android developer and student at RTU MIREA in Moscow, studying Systems and Softw
 
 <table width="100%">
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/image_2.png" alt="Liquid-GRUB Preview" style="width: 100%; height: auto;" />
-    </td>
     <td width="60%" valign="top">
       <h3>2. <a href="https://github.com/Purp1eDuck2008/Liquid-GRUB">Liquid-GRUB</a></h3>
       <p>GRUB bootloader theme inspired by the Liquid Glass design aesthetic.</p>
@@ -101,6 +106,9 @@ Android developer and student at RTU MIREA in Moscow, studying Systems and Softw
         <li>Clean UI scaling across HiDPI display resolutions</li>
         <li>Compatible with all major Linux distributions</li>
       </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/image_2.png" alt="Liquid-GRUB Preview" style="width: 100%; max-width: 300px; height: auto;" />
     </td>
   </tr>
 </table>
@@ -124,7 +132,7 @@ Android developer and student at RTU MIREA in Moscow, studying Systems and Softw
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/image_3.png" alt="EGE-analyzer Preview" style="width: 100%; height: auto;" />
+      <img src="assets/image_3.png" alt="EGE-analyzer Preview" style="width: 100%; max-width: 300px; height: auto;" />
     </td>
   </tr>
 </table>
