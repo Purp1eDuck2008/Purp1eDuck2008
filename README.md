@@ -5,7 +5,7 @@
 ![RTU MIREA](https://img.shields.io/badge/RTU%20MIREA-21262d?style=for-the-badge&logo=googlescholar&logoColor=58a6ff)
 ![Moscow](https://img.shields.io/badge/Moscow-21262d?style=for-the-badge&logo=googlemaps&logoColor=58a6ff)
 [![Telegram](https://img.shields.io/badge/Telegram-21262d?style=for-the-badge&logo=telegram&logoColor=58a6ff)](https://t.me/Purp1eDuck)
-[![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:твой.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:purpleduck2008@gmail.com)
 
 *🚀 Open for Intern / Junior Android Developer positions*
 
