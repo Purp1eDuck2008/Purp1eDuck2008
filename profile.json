@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "login": "Purp1eDuck2008",
+  "seed": "#E7E4BF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Purp1eDuck",
+    "subtitle": "Android developer building apps with Kotlin and Jetpack Compose",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Moscow"
+      },
+      {
+        "icon": "code",
+        "label": "Kotlin"
+      },
+      {
+        "icon": "school",
+        "label": "RTU MIREA"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Android developer: Kotlin and Jetpack Compose"
+      },
+      {
+        "icon": "palette",
+        "label": "Material 3 and MVVM in every project"
+      },
+      {
+        "icon": "work",
+        "label": "Looking for an internship or a junior Android position"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:jetpackcompose",
+            "label": "Jetpack Compose"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplusbuilder",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:androidstudio",
+            "label": "Android Studio"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Linux"
+          }
+        ]
+      },
+      {
+        "title": "Learning",
+        "items": [
+          {
+            "icon": "brand:dialogflow",
+            "label": "Coroutines and Flow"
+          },
+          {
+            "icon": "brand:googleclassroom",
+            "label": "Room"
+          },
+          {
+            "icon": "brand:speedtest",
+            "label": "Android testing"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Liquid-GRUB",
+      "EGE-analyzer",
+      "Trezvo",
+      "UnitConverter"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/Purp1eDuck"
+      },
+      {
+        "icon": "brand:gmail",
+        "url": "mailto:purpleduck2008@gmail.com"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}

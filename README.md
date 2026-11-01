@@ -1,144 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=220&section=header&text=Alexander&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Android%20Developer&descSize=24&descColor=8b949e&descAlignY=60" alt="Header banner: Alexander, Android Developer" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Purp1eDuck"></picture>
 
-![RTU MIREA](https://img.shields.io/badge/RTU%20MIREA-21262d?style=for-the-badge&logo=googlescholar&logoColor=58a6ff)
-![Moscow](https://img.shields.io/badge/Moscow-21262d?style=for-the-badge&logo=googlemaps&logoColor=58a6ff)
-[![Telegram](https://img.shields.io/badge/Telegram-21262d?style=for-the-badge&logo=telegram&logoColor=58a6ff)](https://t.me/Purp1eDuck)
-[![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:purpleduck2008@gmail.com)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="33.504%" alt=""></picture><a href="https://t.me/Purp1eDuck"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="mailto:purpleduck2008@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="14.866%" alt="gmail"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="33.504%" alt=""></picture>
 
-*🚀 Open for Intern / Junior Android Developer positions*
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-## About
+<a href="https://github.com/Purp1eDuck2008/Liquid-GRUB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-liquid-grub-dark.svg"><img src="assets/project-liquid-grub-light.svg" width="49%" alt="Liquid-GRUB"></picture></a>&nbsp;<a href="https://github.com/Purp1eDuck2008/EGE-analyzer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ege-analyzer-dark.svg"><img src="assets/project-ege-analyzer-light.svg" width="49%" alt="EGE-analyzer"></picture></a>
 
-Android developer and student at RTU MIREA in Moscow, studying Systems and Software Engineering. I build Android applications with Kotlin and Jetpack Compose, using Material 3 and MVVM. Currently, I am expanding my knowledge of Android architecture, local data storage, testing, and backend fundamentals.
+<a href="https://github.com/Purp1eDuck2008/Trezvo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-trezvo-dark.svg"><img src="assets/project-trezvo-light.svg" width="49%" alt="Trezvo"></picture></a>&nbsp;<a href="https://github.com/Purp1eDuck2008/UnitConverter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-unitconverter-dark.svg"><img src="assets/project-unitconverter-light.svg" width="49%" alt="UnitConverter"></picture></a>
 
-- **Focus:** Android development
-- **Education:** RTU MIREA — Systems and Software Engineering
-- **Programming:** Kotlin, C++, Python
-- **Tools:** Android Studio, Git, GitHub, CLion, Linux
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-## Tech stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-### Languages
+<a href="https://github.com/Purp1eDuck2008?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="All repositories"></picture></a>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-21262d?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![C++](https://img.shields.io/badge/C++-21262d?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=3776AB)
-
-### Android Development
-
-![Android](https://img.shields.io/badge/Android-21262d?style=for-the-badge&logo=android&logoColor=3DDC84)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-21262d?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
-![Material 3](https://img.shields.io/badge/Material%203-21262d?style=for-the-badge&logo=materialdesign&logoColor=757575)
-
-### Tools & Environment
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-21262d?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-![CLion](https://img.shields.io/badge/CLion-21262d?style=for-the-badge&logo=clion&logoColor=000000)
-![Linux](https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=ffffff)
-![Obsidian](https://img.shields.io/badge/Obsidian-21262d?style=for-the-badge&logo=obsidian&logoColor=483699)
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purp1eDuck2008&show_icons=true&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=58a6ff&text_color=8b949e" alt="Alexander's GitHub Stats" />
-</div>
-
-## Currently learning
-
-- **Kotlin Coroutines and Flow** — asynchronous and reactive programming
-- **Room** — local data persistence with SQLite
-- **Android testing** — unit and UI testing
-- **Android architecture** — building maintainable and scalable applications
-- **Backend fundamentals** — REST APIs and server-side development
-
-## Projects
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>1. <a href="https://github.com/Purp1eDuck2008/Trezvo">Trezvo</a></h3>
-      <p>Minimalist Android application for estimating alcohol elimination time based on a modified Widmark model.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-21262d?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-21262d?style=flat-square&logo=jetpackcompose&logoColor=4285F4" alt="Jetpack Compose" />
-        <img src="https://img.shields.io/badge/Material%203-21262d?style=flat-square&logo=materialdesign&logoColor=757575" alt="Material 3" />
-        <img src="https://img.shields.io/badge/Architecture-MVVM-21262d?style=flat-square&logoColor=58a6ff" alt="MVVM" />
-        <img src="https://img.shields.io/badge/Android-8.0%2B-21262d?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
-      </p>
-      <ul>
-        <li>Calculation based on sex, weight, and height with adjustable elimination rate</li>
-        <li>Support for adding drinks by volume and ABV</li>
-        <li>Real-time countdown tracking estimated elimination time</li>
-        <li>Clear disclaimer that results are non-medical estimates</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/image_1.png" alt="Trezvo Preview" style="width: 100%; max-width: 300px; height: auto;" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>2. <a href="https://github.com/Purp1eDuck2008/Liquid-GRUB">Liquid-GRUB</a></h3>
-      <p>GRUB bootloader theme inspired by the Liquid Glass design aesthetic.</p>
-      <p>
-        <img src="https://img.shields.io/badge/GRUB-21262d?style=flat-square&logo=gnu&logoColor=ffffff" alt="GRUB" />
-        <img src="https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-        <img src="https://img.shields.io/github/stars/Purp1eDuck2008/Liquid-GRUB?style=flat-square&logo=github&logoColor=ffffff&labelColor=21262d&color=1f6feb" alt="Stars" />
-        <img src="https://img.shields.io/github/forks/Purp1eDuck2008/Liquid-GRUB?style=flat-square&logo=github&logoColor=ffffff&labelColor=21262d&color=1f6feb" alt="Forks" />
-      </p>
-      <ul>
-        <li>Translucent visual components for boot menu selection</li>
-        <li>Clean UI scaling across HiDPI display resolutions</li>
-        <li>Compatible with all major Linux distributions</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/image_2.png" alt="Liquid-GRUB Preview" style="width: 100%; max-width: 300px; height: auto;" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>3. <a href="https://github.com/Purp1eDuck2008/EGE-analyzer">EGE-analyzer</a></h3>
-      <p>C++17 console utility for modeling university admission list distributions from CSV datasets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++17-21262d?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++17" />
-        <img src="https://img.shields.io/badge/Type-CLI-21262d?style=flat-square&logoColor=58a6ff" alt="CLI" />
-        <img src="https://img.shields.io/badge/Input-CSV-21262d?style=flat-square&logoColor=58a6ff" alt="CSV" />
-      </p>
-      <ul>
-        <li>Models applicant priorities, quotas, and entrance exam exemptions (BVI)</li>
-        <li>Fast parsing and processing of large competitive lists</li>
-        <li>Estimates distribution of state-funded places</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/image_3.png" alt="EGE-analyzer Preview" style="width: 100%; max-width: 300px; height: auto;" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=100&section=footer" alt="Footer" width="100%" />
+<a href="https://metawka.github.io/expressive-profile/?from=Purp1eDuck2008"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
