@@ -1,0 +1,202 @@
+{
+ "key": "a834ef1",
+ "stars": 28,
+ "contributions": 63,
+ "repos": 9,
+ "followers": 0,
+ "languages": [
+  [
+   "Java",
+   67781
+  ],
+  [
+   "Kotlin",
+   60446
+  ],
+  [
+   "C++",
+   22516
+  ],
+  [
+   "CMake",
+   458
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "Liquid-GRUB",
+   "url": "https://github.com/Purp1eDuck2008/Liquid-GRUB",
+   "text": "Liquid Glass GRUB",
+   "fork": false,
+   "stars": 28,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Purp1eDuck2008",
+   "url": "https://github.com/Purp1eDuck2008/Purp1eDuck2008",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "EGE-analyzer",
+   "url": "https://github.com/Purp1eDuck2008/EGE-analyzer",
+   "text": "Консольная утилита на C++17 для анализа конкурсных списков поступающих в университет (CSV, разделитель `;`). Считает реальное распределение по бюджетным местам с учётом приоритетов, БВИ/квот и каскадного перехода абитуриентов между специальностями.  Работает на Windows, macOS и Linux. Внешних библиотек не требует — только стандартная библиотека C++",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Trezvo",
+   "url": "https://github.com/Purp1eDuck2008/Trezvo",
+   "text": "Trezvo is a minimalist Android application that estimates the time required for alcohol to be eliminated from the body.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Android-Bootcamp-2026-Backend",
+   "url": "https://github.com/Purp1eDuck2008/Android-Bootcamp-2026-Backend",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Android-Bootcamp-2026-Frontend",
+   "url": "https://github.com/Purp1eDuck2008/Android-Bootcamp-2026-Frontend",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "UnitConverter",
+   "url": "https://github.com/Purp1eDuck2008/UnitConverter",
+   "text": "My first Kotlin app",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Gorgeous-GRUB",
+   "url": "https://github.com/Purp1eDuck2008/Gorgeous-GRUB",
+   "text": "Collection of decent Community-made GRUB themes. Contributions welcome!",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Planify",
+   "url": "https://github.com/Purp1eDuck2008/Planify",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ]
+}
