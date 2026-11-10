@@ -1,13 +1,13 @@
 {
- "key": "160610aa",
+ "key": "85aea954",
  "stars": 28,
- "contributions": 68,
- "repos": 10,
+ "contributions": 79,
+ "repos": 11,
  "followers": 0,
  "languages": [
   [
    "Kotlin",
-   73169
+   84336
   ],
   [
    "Java",
@@ -104,11 +104,15 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -116,7 +120,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 2,
   "longest": 3
  },
  "pins": [],
@@ -128,6 +132,15 @@
    "fork": false,
    "stars": 28,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "SamsungHomeWork2",
+   "url": "https://github.com/Purp1eDuck2008/SamsungHomeWork2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
