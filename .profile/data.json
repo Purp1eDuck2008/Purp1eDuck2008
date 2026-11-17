@@ -1,13 +1,13 @@
 {
- "key": "21e4931c",
+ "key": "423bb876",
  "stars": 28,
- "contributions": 79,
- "repos": 11,
+ "contributions": 80,
+ "repos": 12,
  "followers": 1,
  "languages": [
   [
    "Kotlin",
-   84336
+   89600
   ],
   [
    "Java",
@@ -109,7 +109,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 17,
     "today": true
    },
@@ -120,7 +120,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 3
  },
  "pins": [],
@@ -132,6 +132,15 @@
    "fork": false,
    "stars": 28,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "PersonalExpensesTracker",
+   "url": "https://github.com/Purp1eDuck2008/PersonalExpensesTracker",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
