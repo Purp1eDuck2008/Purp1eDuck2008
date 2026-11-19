@@ -1,6 +1,6 @@
 {
- "key": "3fd87a57",
- "stars": 28,
+ "key": "47963238",
+ "stars": 27,
  "contributions": 81,
  "repos": 12,
  "followers": 1,
@@ -116,9 +116,13 @@
    {
     "c": 1,
     "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
     "today": true
    },
-   null,
    null,
    null
   ]
@@ -134,7 +138,7 @@
    "url": "https://github.com/Purp1eDuck2008/Liquid-GRUB",
    "text": "Liquid Glass GRUB",
    "fork": false,
-   "stars": 28,
+   "stars": 27,
    "language": null,
    "topics": []
   },
